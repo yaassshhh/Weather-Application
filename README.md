@@ -19,7 +19,9 @@ The app is developed using React.js and material-UI.
 <br/>
 
 
+- Get inside the project directory using the command `cd Weather-Application`
 - Install the packages using the command `npm install`
+- Initiate the project using the command `npm start`
 
 <br/>
 
